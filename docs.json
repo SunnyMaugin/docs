@@ -58,14 +58,14 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
+          "anchor": "Website",
+          "href": "https://autoplay.mysellauth.com/",
+          "icon": "globe-pointer"
         },
         {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
+          "anchor": "Discord",
+          "href": "https://discord.gg/autoplay",
+          "icon": "discord"
         },
         {
           "anchor": "Blog",
@@ -82,13 +82,13 @@
   "navbar": {
     "links": [
       {
-        "label": "Discord Community",
+        "label": "Community",
         "href": "https://discord.gg/autoplay"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Website",
+      "label": "Purchase",
       "href": "https://autoplay.mysellauth.com/"
     }
   },
