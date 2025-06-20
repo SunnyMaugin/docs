@@ -11,7 +11,7 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
         "groups": [
           {
             "group": "Get Started",
@@ -31,6 +31,12 @@
               "essentials/navigation",
               "essentials/reusable-snippets"
             ]
+          },
+          {
+            "group": "Misc",
+            "pages": [
+              "misc/shadow-pc"
+            ]  
           }
         ]
       }
