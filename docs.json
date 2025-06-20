@@ -22,14 +22,14 @@
             ]
           },
           {
-            "group": "Essentials",
+            "group": "Configuration",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
+              "configuration/markdown",
+              "configuration/code",
+              "configuration/images",
+              "configuration/settings",
+              "configuration/navigation",
+              "configuration/reusable-snippets"
             ]
           },
           {
