@@ -3,7 +3,7 @@
   "theme": "mint",
   "name": "Mint Starter Kit",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#cc0202",
     "light": "#07C983",
     "dark": "#15803D"
   },
@@ -82,14 +82,14 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "Discord Community",
+        "href": "https://discord.gg/autoplay"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Website",
+      "href": "https://autoplay.mysellauth.com/"
     }
   },
   "footer": {
