@@ -4,8 +4,8 @@
   "name": "AutoPlay",
   "colors": {
     "primary": "#cc0202",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "light": "#cc0202",
+    "dark": "#cc0202"
   },
   "favicon": "/favicon.svg",
   "navigation": {
