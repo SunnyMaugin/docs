@@ -51,7 +51,7 @@
     }
   },
   "logo": {
-    "light": "/logo/ap_dark.svg",
+    "light": "/logo/ap_light.svg",
     "dark": "/logo/ap_dark.svg"
   },
   "navbar": {
